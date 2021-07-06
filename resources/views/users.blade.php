@@ -51,7 +51,7 @@
                         @csrf
                         <div class="p-6">
                             <div class="flex items-center">
-                                <lable>New User</lable>
+                                <lable>New User 1111</lable>
                             </div>
                             <div class="ml-12">
                             <input class="form-control" type="text" id="name" name="name" placeholder="user name"></input>
